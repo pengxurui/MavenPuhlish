@@ -10,7 +10,6 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.xurui.lib"
         minSdkVersion 17
         targetSdkVersion 30
         versionCode 1
