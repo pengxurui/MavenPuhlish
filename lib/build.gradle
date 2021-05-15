@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 // apply plugin: 'maven' // Maven 插件
-// apply plugin: 'com.github.dcendents.android-maven' // GitHub Maven 插件
+apply plugin: 'com.github.dcendents.android-maven' // GitHub Maven 插件
 
 group = 'com.github.pengxurui' // github 的用户名
 
