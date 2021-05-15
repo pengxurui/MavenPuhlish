@@ -1,0 +1,3 @@
+rootProject.name = "mavenPublish"
+include ':app'
+include ':lib'
